@@ -12,6 +12,7 @@ namespace SourceControl101
         {
             Console.WriteLine("This is my first assignment using source control.");
             Console.WriteLine("This is the first addition to commit to the project.");
+            Console.WriteLine("This is the second addtion to commit to the project");
             Console.ReadLine();
         }
     }
